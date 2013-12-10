@@ -1,0 +1,28 @@
+# YAML 1.1
+# Fichero de configuración de paquetes de personalización de Guadalinex v6
+
+# Nombre del paquete (minúsculas-separado-con-guiones)
+name: gecos-pixmaps
+
+# Autor 
+author: Roberto C. Morano <rcmorano@emergya.com>
+
+#Priority
+priority: optional
+
+# Section
+section: metapackages
+
+# Descripción corta
+shortdesc: "GECOS pixmaps package."
+
+# Descipción larga, las lineas han de estar separadas por "\n "
+longdesc: "This package contains every GECOS pixmaps file (backgrounds, icons...)."
+
+
+# Versión del paquete
+version: 2.0
+
+# Cambios en esta versión
+changes:
+    - Initial release.

@@ -1,0 +1,4 @@
+if [ -L /usr/share/backgrounds/linuxmint/default_background.jpg ]
+then
+    rm -f /usr/share/backgrounds/linuxmint/default_background.jpg
+fi

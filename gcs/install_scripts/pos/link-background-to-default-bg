@@ -1,0 +1,4 @@
+if [ ! -e /usr/share/backgrounds/linuxmint/default_background.jpg ]
+then
+    ln -s /usr/share/backgrounds/gecos/gecos.png /usr/share/backgrounds/linuxmint/default_background.jpg
+fi

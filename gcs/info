@@ -1,28 +1,25 @@
 # YAML 1.1
-# Fichero de configuración de paquetes de personalización de Guadalinex v6
+# Fichero de configuración de paquetes de personalización de GECOS v2
 
 # Nombre del paquete (minúsculas-separado-con-guiones)
-name: gecos-pixmaps
+name: gecosws-artwork
 
 # Autor 
-author: Roberto C. Morano <rcmorano@emergya.com>
+author: Alexis Martin Castillo <amartin@emergya.com>
 
-#Priority
+# Priority
 priority: optional
 
 # Section
 section: metapackages
 
-# Descripción corta
-shortdesc: "GECOS pixmaps package."
+shortdesc: "GECOS v2 artwork"
 
-# Descipción larga, las lineas han de estar separadas por "\n "
-longdesc: "This package contains every GECOS pixmaps file (backgrounds, icons...)."
-
+longdesc: "This package contains every GECOS v2 artwork file (backgrounds, icons...)."
 
 # Versión del paquete
 version: 2.0
 
 # Cambios en esta versión
 changes:
-    - Initial release.
+    - initial release

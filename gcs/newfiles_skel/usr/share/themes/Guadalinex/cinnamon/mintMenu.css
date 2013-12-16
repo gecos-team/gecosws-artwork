@@ -22,7 +22,7 @@
 .menu-favorites-button:hover {
     color: white;
 	 border: 1px  rgba(0,0,0,0.5);
-    background-color: #529d85;
+    background-color: #b0dbdc;
     box-shadow: inset 0px 1px 0px rgba(255,255,255,0.4);
 }
 
@@ -86,7 +86,7 @@
     padding-bottom: 7px;
     color: white;
     border: 1px  rgba(0,0,0,0.5);
-    background-color: #529d85;
+    background-color: #b0dbdc;
     box-shadow: inset 0px 1px 0px rgba(255,255,255,0.4);
     border-radius: 4px;
 }
@@ -120,7 +120,7 @@
     padding-bottom: 7px; 
     color: white;
     border: 1px  rgba(0,0,0,0.5);
-    background-color: #529d85;
+    background-color: #b0dbdc;
     box-shadow: inset 0px 1px 0px rgba(255,255,255,0.4);
     border-radius: 4px;
 }

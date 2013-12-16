@@ -242,6 +242,6 @@
 
 .panel-launcher:hover {
     border: 1px solid rgba(255,255,255,0);
-    border-radius: 4px;background-color: #529d85;
+    border-radius: 4px;background-color: #b0dbdc;
     box-shadow: inset 0px 1px 0px rgba(255,255,255,0.5);
 }

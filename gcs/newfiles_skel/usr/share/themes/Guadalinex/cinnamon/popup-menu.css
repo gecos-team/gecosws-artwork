@@ -91,7 +91,7 @@
 .popup-menu-item:active {
     color: #fff;
     border: 1px  rgba(0,0,0,0.5);
-    background-color: #458b74;
+    background-color: #229ea9;
     box-shadow: inset 0px 1px 0px rgba(255,255,255,0.4);
     text-shadow: rgba(0,0,0,0.4) 0px 1px 0px;
     padding: 0.4em 1.4em; /*This padding is set like that because I'm using a border of 1px, so I needed to decrease it a 0.1em to keep the elements from moving*/
@@ -142,7 +142,7 @@
     -slider-height: 5px;
     -slider-background-color: #000;
     -slider-border-color: rgba(0,0,0,0.4);
-    -slider-active-background-color: #458b74;
+    -slider-active-background-color: #229ea9;
     -slider-active-border-color: rgba(0,0,0,0);
     -slider-border-width: 1px;
     -slider-handle-radius: 0.6em;

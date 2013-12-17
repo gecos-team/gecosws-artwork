@@ -1,4 +1,4 @@
-gtk-icon-theme-name = "Guadalinex"
+gtk-icon-theme-name = "Gecos-cinnamon"
 
 style "clearlooks-default"
 {
@@ -26,8 +26,8 @@ style "clearlooks-default"
   ythickness = 1
 
         fg[NORMAL]        = "#F3F3F3"
-        fg[PRELIGHT]      = "#687e94" # from background.jpg it is "Guadalinex V6" text colour
-        fg[ACTIVE]        = "#ffffff" # from background.jpg it is "Guadalinex V6" text colour
+        fg[PRELIGHT]      = "#687e94" # from background.jpg it is "Gecos V2" text colour
+        fg[ACTIVE]        = "#ffffff" # from background.jpg it is "Gecos V2" text colour
         fg[INSENSITIVE]   = "#ffffff"   
 
         bg[NORMAL]        = "#03284c" # dark blue from background.jpg bg

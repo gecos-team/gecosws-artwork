@@ -584,7 +584,7 @@ if __name__ == "__main__":
 
 	# Create the window
 	pygame.init()
-	pygame.display.set_caption( "Guadalinex Reboot :-)")
+	pygame.display.set_caption( "Gecos Reboot :-)")
 	screen = pygame.display.set_mode( (WINDOWX,WINDOWY) )
 
 	# Create background, make it all black for now

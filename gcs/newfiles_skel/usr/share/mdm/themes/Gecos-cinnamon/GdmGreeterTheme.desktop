@@ -1,8 +1,0 @@
-[GdmGreeterTheme]
-Greeter=Gecos-cinnamon.xml
-Name=Gecos-cinnamon
-Description=Tema de bienvenida de Gecos v2
-Author=Juan Jesús Ojeda, Roberto C. Morano
-Copyright=(c) 2009 Junta de Andalucía
-Screenshot=screenshot.png
-X-Ubuntu-Gettext-Domain=guadalinex-artwork

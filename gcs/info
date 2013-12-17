@@ -1,5 +1,5 @@
 # YAML 1.1
-# Fichero de configuración de paquetes de personalización de GECOS v2
+# Fichero de configuración de paquetes de personalización de Gecos v2
 
 # Nombre del paquete (minúsculas-separado-con-guiones)
 name: gecosws-artwork
@@ -13,7 +13,7 @@ priority: optional
 # Section
 section: metapackages
 
-shortdesc: "GECOS v2 artwork"
+shortdesc: "Gecos v2 artwork"
 
 longdesc: "This package contains every GECOS v2 artwork file (backgrounds, icons...)."
 

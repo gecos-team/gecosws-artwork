@@ -1,3 +1,4 @@
 update-alternatives --install /lib/plymouth/themes/default.plymouth default.plymouth /lib/plymouth/themes/gecos/gecos.plymouth 100
 update-alternatives --set default.plymouth /lib/plymouth/themes/gecos/gecos.plymouth 
 update-initramfs -u
+echo "FRAMEBUFFER=y" > /etc/initramfs-tools/conf.d/splash

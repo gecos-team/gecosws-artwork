@@ -1,0 +1,7 @@
+[Plymouth Theme]
+Name=GECOS text
+Description=Text mode theme
+ModuleName=ubuntu-text
+
+[ubuntu-text]
+title=GECOS v2

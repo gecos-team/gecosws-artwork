@@ -1,0 +1,34 @@
+@import url("app-switcher.css");
+@import url("buttons.css");
+@import url("calendar.css");
+@import url("mediaplayer.css");
+@import url("end-session.css");
+@import url("gdm.css");
+@import url("initial.css");
+@import url("keyboard.css");
+@import url("lg.css");
+@import url("magnifier.css");
+@import url("message.css");
+@import url("modal.css");
+@import url("mount.css");
+@import url("overview.css");
+@import url("panel.css");
+@import url("polkit.css");
+@import url("popup-menu.css");
+@import url("run.css");
+@import url("mintMenu.css");
+@import url("windowlist.css");
+@import url("applets.css");
+#Tooltip {
+        border: 1px solid rgba(212,185,67,1.0);
+        border-radius: 4px;
+        padding: 2px 12px;
+        background-gradient-end: rgba(251,234,159,0.9);
+        background-gradient-start: rgba(254,245,198,0.9);
+        background-gradient-direction: vertical;
+        color: #000000;
+        font-size: 8.5pt;
+        font-weight: normal;
+        text-align: center;
+}
+

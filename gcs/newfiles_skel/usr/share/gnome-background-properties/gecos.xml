@@ -1,0 +1,25 @@
+<?xml version="1.0"?>
+<!DOCTYPE wallpapers SYSTEM "gnome-wp-list.dtd">
+<wallpapers>
+
+<wallpaper deleted="false">
+    <name>Gecos (Panoramico)</name>
+    <filename>/usr/share/backgrounds/gecos/gecos_panoramico.jpg</filename>
+    <options>zoom</options>
+    <shade_type>solid</shade_type>
+    <pcolor>#000000</pcolor>
+    <scolor>#000000</scolor>
+  </wallpaper>
+
+<wallpaper deleted="false">
+    <name>Gecos</name>
+    <filename>/usr/share/backgrounds/gecos/gecos_bg.jpg</filename>
+    <options>zoom</options>
+    <shade_type>solid</shade_type>
+    <pcolor>#000000</pcolor>
+    <scolor>#000000</scolor>
+  </wallpaper>
+
+</wallpapers>
+
+

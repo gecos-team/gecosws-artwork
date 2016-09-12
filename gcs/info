@@ -16,7 +16,7 @@ section: metapackages
 
 shortdesc: "Gecos v3 artwork"
 
-longdesc: "This package contains every GECOS v2 artwork file (backgrounds, icons...)."
+longdesc: "This package contains every GECOS v3 artwork file (backgrounds, icons...)."
 
 # Versión del paquete
 version: 3.0

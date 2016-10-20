@@ -661,8 +661,14 @@ GtkViewport.frame {
     border-width: 0;
 }
 
+.frame.flat,
 GtkScrolledWindow GtkViewport.frame {
     border: none;
+}
+
+.frame.action-bar {
+    padding: 4px;
+    border-width: 1px 0 0;
 }
 
 /************

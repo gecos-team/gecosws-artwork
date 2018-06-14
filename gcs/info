@@ -1,5 +1,5 @@
 # YAML 1.1
-# Fichero de configuración de paquetes de personalización de Gecos v3
+# Fichero de configuración de paquetes de personalización de GECOS v4
 
 
 # Nombre del paquete (minúsculas-separado-con-guiones)
@@ -16,12 +16,12 @@ section: metapackages
 
 shortdesc: "Gecos v3 artwork"
 
-longdesc: "This package contains every GECOS v3 artwork file (backgrounds, icons...)."
+longdesc: "This package contains every GECOS v4 artwork file (backgrounds, icons...)."
 
 # Versión del paquete
-version: 3.0
+version: 4.0
 
 # Cambios en esta versión
 changes:
     - initial release
-    - Update to version 3
+    - Update to version 4

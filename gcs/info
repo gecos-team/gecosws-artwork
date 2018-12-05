@@ -26,3 +26,4 @@ changes:
     - initial release
     - Update to version 4
     - Remove version from descriptive texts
+    - Move plymouth theme to gecosws-plymouth-theme package

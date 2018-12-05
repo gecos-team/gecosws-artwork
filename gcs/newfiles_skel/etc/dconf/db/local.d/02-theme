@@ -1,0 +1,12 @@
+# Set GECOS Theme
+[org/cinnamon/theme]
+name='Gecos-cinnamon'
+
+[org/cinnamon/desktop/interface]
+icon-theme='Gecos'
+gtk-theme='Gecos'
+toolkit-accessibility=false
+
+[org/cinnamon/desktop/wm/preferences]
+theme='Mint-X'
+

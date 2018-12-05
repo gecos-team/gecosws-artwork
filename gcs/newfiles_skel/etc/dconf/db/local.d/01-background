@@ -1,0 +1,7 @@
+# Set GECOS background image
+[org/gnome/desktop/background]
+picture-uri='file:///usr/share/backgrounds/gecos/gecos_panoramico.jpg'
+picture-options='scaled'
+primary-color='000000'
+secondary-color='F
+

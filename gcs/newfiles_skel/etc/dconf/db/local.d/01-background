@@ -3,5 +3,14 @@
 picture-uri='file:///usr/share/backgrounds/gecos/gecos_panoramico.jpg'
 picture-options='scaled'
 primary-color='000000'
-secondary-color='F
+
+[org/cinnamon/desktop/background]
+picture-uri='file:///usr/share/backgrounds/gecos/gecos_panoramico.jpg'
+primary-color='000000'
+picture-options='zoom'
+
+[org/cinnamon/desktop/background/slideshow]
+image-source='xml:///usr/share/cinnamon-background-properties/gecos.xml'
+delay=15
+
 

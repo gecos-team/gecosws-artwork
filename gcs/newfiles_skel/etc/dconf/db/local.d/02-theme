@@ -8,5 +8,5 @@ gtk-theme='Gecos'
 toolkit-accessibility=false
 
 [org/cinnamon/desktop/wm/preferences]
-theme='Mint-X'
+theme='Gecos'
 

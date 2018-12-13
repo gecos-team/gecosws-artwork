@@ -4,9 +4,8 @@ name='Gecos-cinnamon'
 
 [org/cinnamon/desktop/interface]
 icon-theme='Gecos'
-gtk-theme='Gecos'
-toolkit-accessibility=false
+#gtk-theme='Gecos'
 
-[org/cinnamon/desktop/wm/preferences]
-theme='Gecos'
+#[org/cinnamon/desktop/wm/preferences]
+#theme='Gecos'
 

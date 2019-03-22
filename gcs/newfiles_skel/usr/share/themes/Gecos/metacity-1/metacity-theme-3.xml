@@ -18,7 +18,7 @@
 -->
 <constant name="C_title_unfocused" value="shade/gtk:bg[NORMAL]/0.80"/>
 <constant name="C_titlebar_bg" value="#5095a0"/>
-<constant name="C_titlebar_focused_hilight" value="shade/gtk:bg[NORMAL]/1.3" />
+<constant name="C_titlebar_focused_hilight" value="#5095a0" />
 <constant name="C_icon_focused" value="shade/gtk:bg[NORMAL]/0.75"/>
 <constant name="C_icon_unfocused" value="shade/gtk:bg[NORMAL]/0.80"/>
 <constant name="C_icon_prelight" value="shade/gtk:bg[NORMAL]/0.50"/>

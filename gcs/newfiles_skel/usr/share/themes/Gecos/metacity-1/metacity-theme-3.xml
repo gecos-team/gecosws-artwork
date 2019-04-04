@@ -191,7 +191,7 @@
 	<arc color="C_titlebar_focused_hilight" x="width-10" y="1" width="9" height="7"  start_angle="0" extent_angle="90" />
 	<gradient type="vertical" x="1" y="5" width="1" height="height-9">
 		<color value="C_titlebar_focused_hilight" />
-		<color value="blend/gtk:bg[NORMAL]/#000000/0.03" />
+		<color value="C_titlebar_focused_hilight" />
 	</gradient>
 </draw_ops>
 

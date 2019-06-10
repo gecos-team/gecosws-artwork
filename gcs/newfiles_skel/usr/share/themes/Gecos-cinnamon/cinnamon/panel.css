@@ -92,7 +92,7 @@
 }
 
 .app-menu-icon {
-      width: 16px;
+    width: 16px;
     height: 16px;
 }
 /*
@@ -231,17 +231,18 @@
     icon-size: 16px;
 }
 
-#panel-launchers-box {
-    padding-left: 7px;
+.panel-launchers {
+    spacing: 0;
 }
 
-.panel-launcher {
-    margin: 1px;
-    padding: 1px;    border: 1px solid rgba(255,255,255,0);
+.panel-launchers .launcher {
+    padding-left: 2px;
+    padding-right: 2px;
+    padding-bottom: 1px;
 }
 
-.panel-launcher:hover {
-    border: 1px solid rgba(255,255,255,0);
-    border-radius: 4px;background-color: #b0dbdc;
-    box-shadow: inset 0px 1px 0px rgba(255,255,255,0.5);
+.panel-left .panel-launchers .launcher,
+.panel-right .panel-launchers .launcher {
+    padding: 0;
+    padding-bottom: 2px;
 }

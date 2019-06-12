@@ -1,8 +1,7 @@
 /* Applets (applet.js) */
 
 .applet-box {
-    margin: 1px;
-    padding: 1px;border: 1px solid rgba(255,255,255,0);
+    padding: 1px;
 }
 
 .applet-box:hover {    
